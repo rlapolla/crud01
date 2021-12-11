@@ -67,7 +67,7 @@ export const App = () => {
     return (
         <div className="container">
             <h2 className="bg-secondary text-white pl-2 mt-5"> TAREAS</h2>
-            <div className="small">REACT basicDemoExample by <a href="mailto:rlapolla@gmail.com">rlapolla@gmail.com</a></div>
+            <div className="small">REACT TODO-App by <a href="mailto:rlapolla@gmail.com">rlapolla@gmail.com</a> - <a target="_blank" href="https://github.com/rlapolla/crud01.git"> GitHub</a></div>
             <hr />
             <div className="row">
                 <div className="col-8">
